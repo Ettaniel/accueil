@@ -252,3 +252,20 @@ body
 {
 	width:100%;
 }
+
+hr
+{
+	border:1px solid white;
+	margin:3em;
+}
+
+.key
+{
+	display:inline-block;
+	border:1px solid #555555;
+	padding:0.1em;
+	background-color:black;
+	border-radius:0.2em;
+	font-family:mono;
+	font-size:90%;
+}
